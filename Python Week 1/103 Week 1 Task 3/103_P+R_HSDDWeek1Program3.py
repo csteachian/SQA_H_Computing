@@ -1,5 +1,5 @@
 # Program 3
-# PREDICT + RUN: What will this program do?
+# PREDICT + RUN: What do you think this program will do?
 name = input("Enter your name: ")
 age = int(input("Enter your age: "))
 gpa = float(input("Enter your GPA: "))
