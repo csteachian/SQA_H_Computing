@@ -2,7 +2,6 @@
 # 1. Write down positive binary version of number
 # 2. Invert all the bits
 # 3. Add on one
-# LITTLE TEST FOR VSCODE.DEV
 
 
 # Define a function to convert a negative integer between -128 and # -1 into an 8-bit Two's Complement binary number
