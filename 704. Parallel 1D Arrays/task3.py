@@ -1,4 +1,6 @@
-# Program 5 - Make
+# 704. Parallel 1D Arrays
+# Task 3 - Make
+
 '''
 Write a program that will ask the user for their name and a test mark out of 100.
  

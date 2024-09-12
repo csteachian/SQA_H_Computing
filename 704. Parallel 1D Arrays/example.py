@@ -1,24 +1,15 @@
-# 704. Example: Python
+# 704. Parallel 1D Arrays
+# Example: Python
 
-#SET travel_agent TO ' '
-#SET booking number TO 0
-#SET dates TO EMPTY ARRAY
-#RECEIVE travel agent FROM (STRING) KEYBOARD
-#RECEIVE booking number FROM (INTEGER) KEYBOARD
-#LOOP 3 TIMES
-     #RECEIVE date FROM (STRING) KEYBOARD
-     #ADD date no TO dates ARRAY
-#END LOOP
-#DISPLAY travel_agent, booking number AND the contents of the dates ARRAY
-
-travel_agent = ''
-booking_number = 0
-dates = []
-travel_agent = input("Enter travel agent name: ")
-booking_number = int(input("Enter booking number: "))
-for index in range(3):
-    date = input("Enter date of booking: ")
-    dates.append(date)
-print(travel_agent, booking_number)
+travel_agent = ''                                           #SET travel_agent TO ' '
+booking_number = 0                                          #SET booking number TO 0
+dates = []                                                  #SET dates TO EMPTY ARRAY
+travel_agent = input("Enter travel agent name: ")           #RECEIVE travel agent FROM (STRING) KEYBOARD
+booking_number = int(input("Enter booking number: "))       #RECEIVE booking number FROM (INTEGER) KEYBOARD
+for index in range(3):                                      #LOOP 3 TIMES
+    date = input("Enter date of booking: ")                      #RECEIVE date FROM (STRING) KEYBOARD
+    dates.append(date)                                           #ADD date no TO dates ARRAY
+                                                            #END LOOP
+print(travel_agent, booking_number)                         #DISPLAY travel_agent, booking number AND the contents of the dates ARRAY
 for index in range(3):
     print(dates[index])
