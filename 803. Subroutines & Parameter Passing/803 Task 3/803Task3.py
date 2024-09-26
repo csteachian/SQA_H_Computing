@@ -1,7 +1,6 @@
 def module1(first, second, third):
   volume = first * second * third
   print("Volume =",volume)
-  # Displays Volume = 24
 
 def module2(monday):
   monday = monday/10
