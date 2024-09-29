@@ -1,26 +1,11 @@
-runner_name = ["AS","CM","ZN","OR","FP"]
-runner_num = [2191,1789,1046,3391,2192]
-runner_time = [49.18,51.36,42.58,58.59,64.03]
-money_raised = [312.50,240.75,210.00,278.90,180.00]
+# 1001Task4.py
+# Standard Algorithms - Finding Min + Max
 
-def displayNumbers (numbers):
-  for x in range(len(numbers)):
-    print  (numbers[x]," ",end="")
-  return
+# Predict and run
 
-def findingMin (numbers):
-  position = 0
-  min = numbers[0]
-  for x in range(1,len(numbers)):
-    if numbers[x] < min:
-      min = numbers[x]
-      position = x
-  print()
-  print("The lowest number (minimum) in the list is",min,".")
-  return position
-
-displayNumbers(runner_time)
-position = findingMin(runner_time)
-print("The runner who was fastest is:",runner_name[position])
-print("Their runner number was",runner_num[position])
-print("The amount raised for charity was",money_raised[position])
+search_list = [4,12,5,8,2,6]
+max = search_list[0]
+for index in range(1,len(search_list)):
+  if search_list[index] > max:
+    max = search_list[index]
+print(max)

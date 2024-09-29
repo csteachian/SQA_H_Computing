@@ -1,3 +1,8 @@
+# 1001Task2.py
+# Standard Algorithms - Finding Min + Max
+
+# Predict and run
+
 from random import *
 
 numbers = []

@@ -1,3 +1,8 @@
+# 1001Task6.py
+# Standard Algorithms - Finding Min + Max
+
+# Investigate and modify
+
 from random import *
 
 numbers = []
@@ -10,16 +15,12 @@ def random20numbers():
 def displayNumbers (numbers):
   for x in range(20):
     print  (numbers[x]," ",end="")
-  return
 
 def findingMax(numbers):
-  max = numbers[0]
-  for x in range(1,20):
-    if numbers[x] > max:
-      max = numbers[x]
+  # WRITE CODE TO IMPLEMENT A FINDING MAX
+  # ...
   print()
   print("The highest number (maximum) in the list is",max,".")
-  return
 
 numbers = random20numbers()
 displayNumbers(numbers)
