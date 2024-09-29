@@ -1,3 +1,8 @@
+# 805Task1.py
+# Standard Algorithms - Linear Search & Counting Occurrences
+
+# Predict and read
+
 names = ['Jim', 'James', 'Jan', 'Jimmy', 'John', 'Jenna', 'Jonny' ]
 counter = 0
 nameToFind = 'John'

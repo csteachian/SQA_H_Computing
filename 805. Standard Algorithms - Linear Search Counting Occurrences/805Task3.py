@@ -1,3 +1,8 @@
+# 805Task3.py
+# Standard Algorithms - Linear Search & Counting Occurrences
+
+# Investigate and modify
+
 def getTargetCharacter():
   target = input("Enter the character you are looking for")
 
@@ -14,6 +19,7 @@ def findCharacterPosition(oneToFind):
   for i in range(len(characters)):
     break
     #if.......
+    # FINISH OFF THIS CODE
 
   return foundPosition
 

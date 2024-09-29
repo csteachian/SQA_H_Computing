@@ -1,3 +1,8 @@
+# 805Task4.py
+# Standard Algorithms - Linear Search & Counting Occurrences
+
+# Investigate and modify
+
 def getTarget():
   targetAnimal = input("Please enter the target animal you are searching for")
 
@@ -10,8 +15,9 @@ def getCircusAnimalsList():
 
 def countOccurrences(targetAnimal, animals):
   occurrences = 0
-  for i in range(len.......):
-    if animals[i] == ......:
+  #for i in range(len.....):
+  #  if animals[i] == ......:
+  # FINISH OFF THIS CODE
 
 def printOccurrences(occurrences):
   print(occurrences)
