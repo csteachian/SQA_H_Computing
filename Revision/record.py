@@ -10,3 +10,4 @@ class book:
 
 # Array of records
 
+books = [ book() for index in range(50) ] # 50 book records in this array
