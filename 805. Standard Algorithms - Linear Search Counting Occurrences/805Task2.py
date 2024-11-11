@@ -16,3 +16,4 @@ for i in range(len(teams)):
 
 #once the loop has finished, print the total number of teams that has scored more than 60
 print (str(occurrences) + " teams have scored more than 60")
+
