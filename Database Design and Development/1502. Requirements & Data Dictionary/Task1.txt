@@ -1,0 +1,13 @@
+Task 1 - Requirements Gathering
+
+Download the suspects database (Access or SQLite versions are available).
+
+Run the query provided below and come up with three end user requirements and three functional requirements
+that could be relevant to this database.
+
+Add these to your Google Classroom assignment as private comments.
+
+The query is:
+
+SELECT *
+FROM suspects;
