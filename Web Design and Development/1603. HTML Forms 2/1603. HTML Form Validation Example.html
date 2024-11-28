@@ -97,8 +97,17 @@
         <input type="email" id="t2" name="email" />
       </p>
       <p>
-        <label for="t3">Leave a short message</label>
-        <textarea id="t3" name="msg" maxlength="140" rows="5"></textarea>
+        <label for="t3">What's your phone number?</label>
+        <input
+          type="num"
+          id="t3"
+          name="phonenum"
+          pattern="[0-9]{4} [0-9]{3} [0-9]{4}"
+        />
+      </p>
+      <p>
+        <label for="t4">Leave a short message</label>
+        <textarea id="t4" name="msg" maxlength="140" rows="5"></textarea>
       </p>
       <p>
         <button>Submit</button>
