@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>JavaScript Event Handlers Lesson</title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+        margin: 0;
+        background-color: #f0f0f0;
+      }
+      .interactive-box {
+        width: 300px;
+        height: 200px;
+        background-color: #3498db;
+        color: white;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+        cursor: pointer;
+        transition: all 0.3s ease;
+        border-radius: 10px;
+      }
+      .interactive-box:hover {
+        background-color: #2980b9;
+        transform: scale(1.05);
+      }
+    </style>
+  </head>
+  <body>
+    <div
+      id="eventBox"
+      class="interactive-box"
+      onmouseover="handleMouseOver()"
+      onmouseout="handleMouseOut()"
+      onclick="handleClick()"
+    >
+      Interact with me!
+    </div>
+
+    <script>
+      // Global variable to track click count
+      let clickCount = 0;
+
+      function handleMouseOver() {
+        // Change text and style when mouse enters the box
+        const box = document.getElementById("eventBox");
+        box.textContent = "Mouse is over me!";
+        box.style.backgroundColor = "#e74c3c";
+      }
+
+      function handleMouseOut() {
+        // Reset text and style when mouse leaves the box
+        const box = document.getElementById("eventBox");
+        box.textContent = "Interact with me!";
+        box.style.backgroundColor = "#3498db";
+      }
+
+      function handleClick() {
+        // Increment click count and update text
+        clickCount++;
+        const box = document.getElementById("eventBox");
+        box.textContent = `Clicked ${clickCount} time${
+          clickCount !== 1 ? "s" : ""
+        }!`;
+      }
+    </script>
+  </body>
+</html>
