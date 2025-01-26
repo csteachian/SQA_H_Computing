@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width" />
+    <title>N5 - WDD - Lesson 9 Example</title>
+    <script>
+      function mouseOver(letter) {
+        document.getElementById(letter).style.color = "red";
+      }
+      function mouseOut(letter) {
+        document.getElementById(letter).style.color = "black";
+      }
+    </script>
+
+    <!-- *********************************************************************************************** -->
+    <!-- Task 2: Add functionality so that when Welcome is clicked, the word changes to the colour green -->
+    <!-- *********************************************************************************************** -->
+  </head>
+
+  <body>
+    <h1 id="i" onmouseover="mouseOver('i')" onmouseout="mouseOut('i')">I</h1>
+    <h1 id="a" onmouseover="mouseOver('a')" onmouseout="mouseOut('a')">A</h1>
+    <h1 id="n" onmouseover="mouseOver('n')" onmouseout="mouseOut('n')">N</h1>
+  </body>
+</html>
