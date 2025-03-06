@@ -3,6 +3,17 @@
 <title>Bedrooms</title>
 <link rel="stylesheet" href="..\CSS\styles.css">
 <link rel="icon" href="..\Images\icon.ico" >
+<script>
+    function showLuxury() {
+        document.getElementById("one").style.display = "block";
+    }
+    function showContemporary() {
+        document.getElementById("two").style.display = "block";
+    }
+    function showModern() {
+        document.getElementById("three").style.display = "block";
+    }
+</script>
 </head>
 <body>
 
@@ -28,21 +39,23 @@
 <br>
 <p>Click on the buttons below to find out a little more about different styles of bedroom.</p>
 <section>
-<section id = "first">
+<section id = "first" >
 
-<img class = "button" src = "..\Images\luxuryButton.png">
+<img class = "button" src = "..\Images\luxuryButton.png" onclick="showLuxury()">
 <img class = "bed" src = "..\Images\luxuryBedroom.png">
-<p>This particular bedroom features a few great functional examples such as the floating bed frame with integrated nightstands and the seamless built-in closet.</p>
+
+<p id="one" style="display: none;">This particular bedroom features a few great functional examples such as the floating bed frame with integrated nightstands and the seamless built-in closet.</p>
+
 </section>
 <section id = "second">
-<img class = "button" src = "..\Images\contemporaryButton.png">
+<img class = "button" src = "..\Images\contemporaryButton.png" onclick="showContemporary()">
 <img class = "bed" src = "..\Images\contemporaryBedroom.png">
-<p>A bed custom made by HandiMaxi anchors this master bedroom in this customer's house decorated by our decorating partners.</p>
+<p id="two" style="display: none;">A bed custom made by HandiMaxi anchors this master bedroom in this customer's house decorated by our decorating partners.</p>
 </section>
 <section id = "third">
-<img class = "button" src = "..\Images\modernButton.png">
+<img class = "button" src = "..\Images\modernButton.png" onclick="showModern()">
 <img class = "bed" src = "..\Images\modernBedroom.png">
-<p>At HandiMaxi, we love making dreams a reality with our bespoke, luxury bedroom furniture. Every bedroom project, can be a complete redesign or a one-off piece, is curated with style at the heart.</p>
+<p id="three" style="display: none;">At HandiMaxi, we love making dreams a reality with our bespoke, luxury bedroom furniture. Every bedroom project, can be a complete redesign or a one-off piece, is curated with style at the heart.</p>
 </section>
 </section>
 
@@ -50,13 +63,16 @@
     
 <footer>
 <section id = "footleft">
-
+<h3>Landline</h3>
+<p>01314449999</p>
 </section>
 <section id = "footmid">
-
+<h3>Mobile</h3>
+<p>0797575364</p>
 </section>
 <section id = "footright">
- 
+ <h3>E-mail</h3>
+ <p>maxi.mcgurk@handimaxi.com</p>
 </section>
 
 </footer>
