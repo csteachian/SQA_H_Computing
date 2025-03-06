@@ -1,0 +1,4 @@
+SELECT teamName, COUNT(position) AS [Total medals won]
+FROM Result, Swimmer, Team
+WHERE Result.swimmerID = Swimmer.swimmerID AND Swimmer.teamRef = Team.teamRef
+GROUP BY teamName;

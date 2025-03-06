@@ -1,0 +1,89 @@
+<html>
+<head>
+<title>Kitchens</title>
+<link rel="stylesheet" href="..\CSS\styles.css">
+<link rel="icon" href="..\Images\icon.ico" >
+</head>
+<body>
+
+<header>
+<img src="..\Images\handymaxi.png">
+</header>
+
+    
+<nav>
+<ul>
+<li><a href="home.html">Home</a></li>
+<li><a href="bedrooms.html">Bedrooms</a></li>
+<li><a href="bathrooms.html">Bathrooms</a></li>
+<li><a id="highlight" href="kitchens.html">Kitchens</a></li>
+<li><a href="quote.html">Get a quote</a></li>
+</ul>
+</nav>
+
+    
+<main>
+<h2>Kitchens</h2>
+<section>
+<p>Here at HandiMaxi we pride ourselves on taking tired and dated looking kitchens and turning them into modern, stylish and functional kitchens that will be the envy of your friends.</p>
+<br>
+<p>During our initial home visit, we will provide you with a full computer rendered design of your new kitchen free of charge.</p>
+<br>
+<p>If you hover over the images below it will show you the after pictures of a selection of our favourite jobs so far.</p>
+<br>
+
+<section class = "left">
+<img id = "kitchen" src = "..\images\beforeOne.png" onmouseover="displayAfterOne(this)" onmouseout="displayBeforeOne(this)">
+</section>
+<section class = "right">
+<img id = "kitchen" src = "..\images\beforeTwo.png" onmouseover="displayAfterTwo(this)" onmouseout="displayBeforeTwo(this)">
+</section>
+<section class = "left">
+<img id = "kitchen" src = "..\images\afterThree.png" onmouseover="displayBeforeThree(this)" onmouseout="displayAfterThree(this)"> 
+</section>
+<section class = "right">
+<img id = "kitchen" src = "..\images\beforeFour.png" onmouseover="displayAfterFour(this)" onmouseout="displayBeforeFour(this)">
+</section>
+</section>
+</main>
+    
+<footer>
+<section id = "footleft">
+
+</section>
+<section id = "footmid">
+
+</section>
+<section id = "footright">
+ 
+</section>
+
+</footer>
+
+</body>
+
+</html>
+
+<script>
+
+function displayAfterOne(my_image) 
+{my_image.src ='../images/afterOne.png';}
+function displayBeforeOne(my_image) 
+{my_image.src ='../images/beforeOne.png';}
+
+function displayAfterTwo(my_image) 
+{my_image.src ='../images/afterTwo.png';}
+function displayBeforeTwo(my_image) 
+{my_image.src ='../images/beforeTwo.png';}
+    
+function displayAfterThree(my_image) 
+{my_image.src ='../images/afterThree.png';}
+function displayBeforeThree(my_image) 
+{my_image.src ='../images/beforeThree.png';}
+
+function displayAfterFour(my_image) 
+{my_image.src ='../images/afterFour.png';}
+function displayBeforeFour(my_image) 
+{my_image.src ='../images/beforeFour.png';}
+
+</script>
