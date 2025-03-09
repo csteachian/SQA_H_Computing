@@ -1,0 +1,3 @@
+INPUT. The program will allow the user to enter the name of a company
+PROCESS. Find the difference in salary between the CEO of the chosen company and the highest CEO salary
+OUTPUT. Display the highest number of employees employed by a single company
