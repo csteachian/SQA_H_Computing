@@ -4,16 +4,20 @@
     <link rel="stylesheet" href="..\CSS\styles.css" />
     <link rel="icon" href="..\Images\icon.ico" />
     <script>
+      function showContemporary() {
+        document.getElementById("two").style.display = "block";
+        document.getElementById("one").style.display = "none";
+        document.getElementById("three").style.display = "none";
+      }
+      function showModern() {
+        document.getElementById("three").style.display = "block";
+        document.getElementById("one").style.display = "none";
+        document.getElementById("two").style.display = "none";
+      }
       function showLuxury() {
         document.getElementById("one").style.display = "block";
         document.getElementById("two").style.display = "none";
         document.getElementById("three").style.display = "none";
-      }
-      function showContemporary() {
-        document.getElementById("two").style.display = "block";
-      }
-      function showModern() {
-        document.getElementById("three").style.display = "block";
       }
     </script>
   </head>
@@ -66,6 +70,7 @@
             onclick="showContemporary()"
           />
           <img class="bed" src="..\Images\contemporaryBedroom.png" />
+
           <p id="two" style="display: none">
             A bed custom made by HandiMaxi anchors this master bedroom in this
             customer's house decorated by our decorating partners.
