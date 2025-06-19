@@ -1,0 +1,4 @@
+Create a query to sort results of a race by position
+Create a query to calculate the time difference between swimmer's time and the winning time
+Create a query to search for the swimmer team reference number
+Create a query to search for the first, second and third placed swimmers in each race

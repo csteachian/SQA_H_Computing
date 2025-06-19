@@ -1,0 +1,6 @@
+(i)
+There are two companies (Ver and TelTo) which have the same CEO salary. This is the highest CEO salary.
+
+When Selop is used as a chosen input, step 2 would be incorrect because it would display only one of the company names (TelTo) when both should be displayed.
+(ii)
+Additional refinements should include writing all positions of the highest salary found to a 1D array, then using this in step 2.12 to display all companies which have the highest CEO salary.

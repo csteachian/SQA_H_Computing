@@ -1,0 +1,3 @@
+Finding max position function is written once but called twice in the code.
+It is efficient because it is used more than once and it would be inefficient to write two similar functions
+where the only difference is that they use different arrays.

@@ -1,68 +1,219 @@
 /* Remove browser defaults */
-* {margin:0;padding:0}
+* {
+  margin: 0;
+  padding: 0;
+}
 
-body {font-family: Tahoma;background-image: url('../Images/logo.png');width:1000px;margin:auto;}
+body {
+  font-family: Tahoma;
+  background-image: url("../Images/logo.png");
+  width: 1000px;
+  margin: auto;
+}
 
-main {background-color: white;padding:10px;display: flex;flex-direction: column;border: 2px solid #0B6B30;}
+main {
+  background-color: white;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  border: 2px solid #0b6b30;
+}
 
-header {margin-top:10px;border-top-left-radius: 25px;border-top-right-radius: 25px;}
+header {
+  margin-top: 10px;
+  border-top-left-radius: 25px;
+  border-top-right-radius: 25px;
+}
 
 /* Nav Bar  */
 
-nav  {margin-top:0px;background-color:#ffffff;border: 2px solid #0b6b30;}
-nav {height:50px}
-nav {font-family: impact;font-size: 30px;}
-nav ul {list-style-type:none}
-nav ul li {float:left;width:20%;text-align:center}
-nav ul li a {display:block;padding:8px}
-nav ul li a:link {background-color:#FFFFFF; color: #0b6b30; text-decoration: none}
-nav ul li a:visited {background-color:#FFFFFF;color:#0b6b30;}
-nav ul li a:hover {background-color:#0b6b30;color:#FFFFFF;}
-nav ul li a:active {background-color:#0b6b30;color:#FFFFFF;}
-a#highlight {background-color:#0b6b30;color:#FFFFFF;}
+nav {
+  margin-top: 0px;
+  background-color: #ffffff;
+  border: 2px solid #0b6b30;
+}
+nav {
+  height: 50px;
+}
+nav {
+  font-family: impact;
+  font-size: 30px;
+}
+nav ul {
+  list-style-type: none;
+}
+nav ul li {
+  float: left;
+  width: 20%;
+  text-align: center;
+}
+nav ul li a {
+  display: block;
+  padding: 8px;
+}
+nav ul li a:link {
+  background-color: #ffffff;
+  color: #0b6b30;
+  text-decoration: none;
+}
+nav ul li a:visited {
+  background-color: #ffffff;
+  color: #0b6b30;
+}
+nav ul li a:hover {
+  background-color: #0b6b30;
+  color: #ffffff;
+}
+nav ul li a:active {
+  background-color: #0b6b30;
+  color: #ffffff;
+}
+a#highlight {
+  background-color: #0b6b30;
+  color: #ffffff;
+}
 
 /* --------- */
-
 
 /* Coloured Bedroom Sections  */
 
-#first{width: 298px; height: 380px;background-color:#FCF4A3;margin:10 10 10 0;float:left;padding:10px;}
-#second{width: 298px; height: 380px;background-color:lightgreen;margin:10 10 10 0;float:left;padding:10px;}
-#third{width: 298px; height: 380px;background-color:lightgray;margin:10 0 0 0;float:left;padding:10px;}
+#first {
+  width: 298px;
+  height: 380px;
+  background-color: #fcf4a3;
+  margin: 10 10 10 0;
+  float: left;
+  padding: 10px;
+}
+#second {
+  width: 298px;
+  height: 380px;
+  background-color: lightgreen;
+  margin: 10 10 10 0;
+  float: left;
+  padding: 10px;
+}
+#third {
+  width: 298px;
+  height: 380px;
+  background-color: lightgray;
+  margin: 10 0 0 0;
+  float: left;
+  padding: 10px;
+}
 
 /* --------- */
-
 
 /* Form Styles */
 
-form {font-family:Tahoma;}
-#rooms {width:200px;border-radius: 7px;padding: 5px;}
-textarea {border-radius: 7px;padding: 5px}
+form {
+  font-family: Tahoma;
+}
+#rooms {
+  width: 200px;
+  border-radius: 7px;
+  padding: 5px;
+}
+textarea {
+  border-radius: 7px;
+  padding: 5px;
+}
 
-.left{float:left;width: 463px; height: 250px;background-color:#FCF4A3;margin:10 10 10 0;padding: 10px;border-radius: 7px;}
-.right{float:left;width: 463px; height: 250px;background-color:lightgreen;margin:10 0 0 0;padding: 10px;border-radius: 7px;}
+.left {
+  float: left;
+  width: 463px;
+  height: 250px;
+  background-color: #fcf4a3;
+  margin: 10 10 10 0;
+  padding: 10px;
+  border-radius: 7px;
+}
+.right {
+  float: left;
+  width: 463px;
+  height: 250px;
+  background-color: lightgreen;
+  margin: 10 0 0 0;
+  padding: 10px;
+  border-radius: 7px;
+}
 
-input {border-radius: 7px;font-size: 18px;padding: 5px;}
+input {
+  border-radius: 7px;
+  font-size: 18px;
+  padding: 5px;
+}
 
-#input-submit {clear:both;color: #0b6b30;background: yellow;cursor: pointer;width: 100%;padding: 10px;font-family: impact;font-size: 24px}
+#input-submit {
+  clear: both;
+  color: #0b6b30;
+  background: yellow;
+  cursor: pointer;
+  width: 100%;
+  padding: 10px;
+  font-family: impact;
+  font-size: 24px;
+}
 
 /* --------- */
-
 
 /* Footer Styles */
 
-footer {height:60px;font-family:Helvetica;background-color:#0b6b30;color:#ffffff;font-size:12pt;margin-top:0px;border-bottom-left-radius: 15px;border-bottom-right-radius: 15px;margin-bottom: 10px;}
-
-
+footer {
+  height: 60px;
+  font-family: Helvetica;
+  background-color: #0b6b30;
+  color: #ffffff;
+  font-size: 12pt;
+  margin-top: 0px;
+  border-bottom-left-radius: 15px;
+  border-bottom-right-radius: 15px;
+  margin-bottom: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+#footleft {
+  float: left;
+  text-align: center;
+  width: 33%;
+}
+#footmid {
+  float: left;
+  text-align: center;
+  width: 34%;
+}
+#footright {
+  float: left;
+  text-align: center;
+  width: 33%;
+}
 /* --------- */
-
 
 /* images  */
 
-.homeimage{height:300px; width:400px;float:right;padding:20px;}
-.bathroomimage{	height:300px; width:500px;float:right;padding:20px;}
-#kitchen{height: 270px; width:460px;}
-.button{width: 300px;}
-.bed{height: 200px;width:300px;padding-top:10px;}
+.homeimage {
+  height: 300px;
+  width: 400px;
+  float: right;
+  padding: 20px;
+}
+.bathroomimage {
+  height: 300px;
+  width: 500px;
+  float: right;
+  padding: 20px;
+}
+#kitchen {
+  height: 270px;
+  width: 460px;
+}
+.button {
+  width: 300px;
+}
+.bed {
+  height: 200px;
+  width: 300px;
+  padding-top: 10px;
+}
 
 /* --------- */

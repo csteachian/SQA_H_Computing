@@ -1,0 +1,4 @@
+1. When you click on the Wet Room link, it displays the Ensuite page instead.
+2. One of the kitchen before / after images shows the after image first and when you hover over it, it displays the before image.
+This is the reverse of what the other images do.
+3. The home page should contain customer reviews, but it does not.

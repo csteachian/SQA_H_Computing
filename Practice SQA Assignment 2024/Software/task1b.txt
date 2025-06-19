@@ -1,0 +1,28 @@
+
+GENERIC FINDING MAX
+
+Set max to the value of the first item in an array
+(Set position to 0)
+Loop for all remaining items
+   If current item value > max then
+       Set max to current item value
+       (Set position to the current loop index)
+   End If
+End loop
+
+-- finding highest ceo salary
+-- finding highest number of employees
+
+----
+
+FUNCTION findMaxPos(thisArray) RETURNS integer
+    Set max to the value of thisArray[0]
+    Set position to 0
+    Loop for all remaining items in thisArray (1 to length of thisArray)
+        If thisArray[index] > max then
+            Set max to thisArray[index]
+            Set position to the index
+        End If
+    End loop
+    RETURN position
+END FUNCTION
