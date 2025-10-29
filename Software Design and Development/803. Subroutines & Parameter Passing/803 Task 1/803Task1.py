@@ -12,3 +12,5 @@ for names in range(numNames):
   newForename = str(input("Please enter a forename"))
   newSurname = str(input("Please enter a surname"))
   nameList.append([newForename, newSurname])
+
+displayNames(nameList)
