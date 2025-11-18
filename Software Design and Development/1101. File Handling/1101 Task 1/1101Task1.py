@@ -1,7 +1,7 @@
 #-------------Main Program-----------------
 #open file
 import time
-with open("1101. File Handling/1101 Task 1/SampleFile.txt") as readfile:
+with open("Software Design and Development/1101. File Handling/1101 Task 1/SampleFile.txt") as readfile:
     #filecontents = readfile.read()
     nextLine = readfile.readline()
     while nextLine != "":
