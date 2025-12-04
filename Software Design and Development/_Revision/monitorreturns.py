@@ -1,13 +1,13 @@
 from dataclasses import dataclass
 @dataclass
-class aReturn():
-    name : str = ""
-    address : str = ""
-    modelNo : str = ""
-    quantity : int = 0
-    collectionDate : str = ""
+class aReturn():                    # RECORD aReturn (
+    name : str = ""                 #           STRING name,
+    address : str = ""              #           STRING address,
+    modelNo : str = ""              #           STRING modelNo,
+    quantity : int = 0              #           INTEGER quantity,
+    collectionDate : str = ""       #           STRING collectionDate)
 
-returns = [aReturn() for index in range(10)]
+returns = [aReturn() for index in range(10)]  # SET returns TO array of aReturn() records(10)
 
 def getReturnInfo():
     # get stuff

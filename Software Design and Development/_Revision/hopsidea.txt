@@ -1,0 +1,1000 @@
+ONTARIO,false
+AGRIGENTO,true
+CINCINNATI,true
+Eschwege,true
+Sint-Jans-Molenbeek,true
+Glauchau,false
+QUIMPER CEDEX 9,false
+PARIS,true
+FOSSANO,false
+PARIS 07SP,false
+PATON,false
+HERMITAGE,true
+SAN ANTONIO,false
+CHICAGO,false
+ONACO,true
+Schopfheim,true
+HAZELWOOD,false
+PARIS 01,true
+SAN DIEGO,true
+TUPELO,false
+MILANO,true
+CARUTHERSVILLE,true
+SABADELL,true
+ALBANY,false
+LUXEMBOURG,true
+VILA-REAL,true
+PITTSBURGH,false
+AMSTERDAM,true
+CAMPBELL HILL,false
+UNION,true
+Valencia,true
+LAS VEGAS,true
+GILLETTE,true
+MILANO,true
+CHANTILLY,false
+Ravensburg,false
+Poysdorf,true
+Vellberg,false
+HARTFORD,true
+RICHMOND,true
+HELENA,true
+SUGAR LAND,true
+MONTROUGE,false
+Kitzingen,false
+CARLSBAD,false
+LUDWIGSHAFEN,true
+APPLETON CITY,true
+Memmingen,true
+NAPOLI,true
+READING,true
+ROMA,true
+ALBANY,true
+MINNEAPOLIS,false
+PARIS,true
+MARSHALLTOWN,false
+MILANO,true
+Möllbrücke,false
+MEMPHIS,false
+JASPER,false
+Speyer,false
+RALEIGH,false
+ALBANY,true
+CLEVELAND,true
+MINNEAPOLIS,false
+Wien,true
+Roscommon,false
+ROMA,true
+Samobor,false
+SAN DIEGO,false
+SEYMOUR,false
+MILANO,false
+MIDLAND,false
+Linz,true
+PITTSBURGH,true
+SOCORRO,true
+CINCINNATI,false
+HICKSVILLE,false
+Köln,true
+Hellerup,true
+"Haag, Oberbay.",false
+Möckmühl,false
+CATOOSA,false
+Schwedt/Oder,true
+ENGLEWOOD CLIFFS,true
+LEBANON,false
+PICAYUNE,false
+Split,false
+CARLSBAD,false
+Kierspe,true
+LAFAYETTE,false
+Zagreb,false
+Kulmbach,true
+Bad Kissingen,false
+PALESTRINA,true
+Luxembourg,true
+BOLZANO-BOZEN,false
+TUPELO,false
+ROMA,false
+MILANO,true
+SUGAR LAND,true
+SUGARLAND,true
+ROMA,false
+Rīga,false
+Stuttgart,false
+BATESVILLE,true
+München,true
+JACKSON,true
+Frankfurt am Main,false
+Wien,true
+LEBANON,false
+RICHMOND,false
+AMSTERDAM,true
+ITASCA,true
+MILANO,false
+MILANO,false
+ITASCA,false
+MILANO,false
+LAFAYETTE,true
+Slatina,true
+JASPER,true
+Dublin,true
+CHANTILLY,false
+Kelheim,false
+HENRICO,true
+METROPOLIS,true
+ROMA,true
+Budapest 07. ker.,false
+SPEARMAN,false
+HENDERSON,true
+Breisach am Rhein,true
+Baden-Baden,false
+"Aurich, Ostfriesland",true
+"Pfarrkirchen, Niederbayern",false
+Dublin,true
+BEMIDJI,false
+RICHMOND,false
+ASHBY,true
+MONTREUIL,true
+Dublin,true
+Thisted,false
+LEE'S SUMMIT,false
+HICKSVILLE,true
+NICOSIA,false
+"Emden, Ostfriesland",true
+NEWPORT,false
+MILANO,true
+Reutlingen,true
+MINNEAPOLIS,true
+ITASCA,true
+PESCIA,false
+Antwerpen,false
+"Olpe, Biggesee",true
+BLUEFIELD,true
+MILANO,true
+TUPELO,true
+NORTON,false
+BUFFALO,false
+RALEIGH,true
+HOOKER,false
+PARIS 07SP,true
+Greding,true
+COLUMBUS,true
+MINNEAPOLIS,true
+PINE BLUFF,true
+Hamburg,true
+Wedel,true
+SUGAR LAND,true
+Spøttrup,false
+SUGAR LAND,false
+COEUR D'ALENE,true
+Hamburg,false
+Regensburg,false
+ALBANY,false
+SUGAR LAND,true
+HERMITAGE,true
+NAPERVILLE,false
+LAJATICO,true
+LENA,false
+Ystad,false
+DOWNEY,true
+ANGOULEME CEDEX,false
+GORIZIA,true
+BRANDON,false
+Leobendorf,false
+HICKMAN,false
+LYNDEN,false
+MINNEAPOLIS,false
+TUPELO,true
+PERPIGNAN CEDEX 09,true
+Sundbyberg,true
+RICHMOND,true
+CINCINNATI,false
+PITTSBURGH,false
+Stuttgart,false
+Brackenheim,true
+ENGLEWOOD CLIFFS,true
+Ottobrunn,true
+LAWRENCEBURG,false
+CINCINNATI,true
+CARLSBAD,false
+MILANO,false
+Frankfurt am Main,false
+Bratislava,false
+COLUMBUS,true
+RICHMOND,true
+SOUTH WINDSOR,true
+MUKWONAGO,false
+TULSA,false
+TIPTON,true
+"Nürnberg, Mittelfr",false
+MINNEAPOLIS,false
+Vilniaus m. sav. Vilniaus m.,false
+MILFORD,true
+ERICK,true
+TORINO,true
+Sundbyberg,true
+TORINO,false
+HUTCHINSON,false
+PITTSBURGH,false
+KENYON,true
+Stockholm,true
+ALBANY,true
+Aschheim,false
+CINCINNATI,true
+BIRMINGHAM,true
+BRANDON,false
+BAYPORT,false
+READING,false
+HELSINKI,false
+ST. PAUL,true
+"Traunstein, Oberbayern",true
+ASHBY,true
+MINNEAPOLIS,false
+BOSSIER CITY,false
+LUXEMBOURG,false
+NAPERVILLE,false
+PARIS 13,true
+RICHMOND,true
+LEWISTON,false
+HERMITAGE,false
+READING,true
+MILANO,true
+LATTES CEDEX,true
+AMSTERDAM,false
+BELDING,true
+COLUMBUS,true
+RICHMOND,true
+MILANO,false
+ST. PAUL,false
+Wartberg an der Krems,false
+ROMA,true
+ONTARIO,false
+RICHMOND,true
+CHEBOYGAN,true
+Dublin,false
+VALLO DELLA LUCANIA,true
+SAINT-DENIS CEDEX,false
+BIRMINGHAM,true
+Antwerpen,false
+Madrid,false
+WAYNE,true
+München,true
+"Freising, Oberbay",false
+HOLLY HILL,false
+IOANNINA,false
+MINNEAPOLIS,true
+Stuttgart,false
+RICHMOND,false
+Wien,false
+ROTTERDAM,true
+CANTON,false
+NEWPORT,false
+LAFAYETTE,true
+LUXEMBOURG,true
+Aschheim,true
+BARLASSINA,false
+"Mering, Schwaben",false
+RICHMOND,false
+LUXEMBOURG,true
+BLAIRSVILLE,true
+Grimma,true
+Galway,false
+HELENA,true
+Brandenburg an der Havel,false
+ROMA,true
+HERMITAGE,false
+LEWISTON,false
+Berlin,false
+MILANO,false
+TOULOUSE CEDEX,true
+Weil am Rhein,true
+LYNN,true
+"Nürnberg, Mittelfr",false
+"Waldkirchen, Niederbay",true
+VERNON,true
+Kildare,true
+Amstetten,true
+Stockholm,false
+FLUMERI,true
+JEFFERSON,true
+PELL CITY,true
+WRENS,false
+Eisenstadt,true
+AMHERST,true
+UTRECHT,true
+RICHMOND,false
+HAWTHORNE,true
+ALBANY,true
+CARRU',true
+Mainz a Rhein,true
+BENE VAGIENNA,true
+DOZIER,true
+MONTROUGE,true
+SPOKANE,true
+PANA,false
+RICHMOND,true
+"Heide, Holstein",false
+Möllbrücke,true
+ROMA,false
+OVERBROOK,false
+TORINO,true
+MILANO,true
+GROESBECK,false
+Butzbach,false
+PAXTON,true
+NOISY-LE-GRAND CEDEX,false
+CLERMONT FERRAND,true
+Göppingen,true
+POISSY Cedex,true
+CANTON,false
+MILANO,false
+München,true
+Antwerpen,false
+Zagreb,true
+FT. LAUDERDALE,true
+MILANO,false
+BREA,true
+Dublin,true
+PITTSBURGH,true
+WHEELING,false
+MILANO,false
+HAWTHORNE,false
+HERMITAGE,true
+RIVERSIDE,true
+SPOKANE,false
+NAPERVILLE,true
+KANSAS CITY,true
+PARIS 08,false
+Silz,false
+Lutherstadt Eisleben,true
+EMDEN,true
+BORDEAUX,false
+PITTSFIELD,true
+Bad Berleburg,true
+ST PAUL,true
+Hamburg,false
+ATLANTA,false
+CAVALIER,false
+COLUMBUS,false
+LEWISTON,true
+RUTHER GLEN,false
+DARWIN,true
+PINE BLUFF,false
+CINCINNATI,true
+MILANO,false
+Reutte,false
+DUBLIN,false
+Peuerbach,true
+FORT COLLINS,true
+N CHAS,true
+TUCUMCARI,false
+Potsdam,true
+ST. PAUL,false
+BIRMINGHAM,true
+CLEVELAND,true
+AMHERST,true
+Amsterdam,true
+PINE BLUFF,true
+RYE,false
+CLEVELAND,true
+FOREST,false
+Dublin,true
+ROTTERDAM,true
+Kraków,true
+Weilburg,false
+DIJON,false
+ALEXANDRIA,false
+PERGINE VALSUGANA,true
+STRASBOURG,true
+PARIS LA DEFENSE CEDEX,true
+LUXEMBOURG,false
+Anröchte,true
+GLADSTONE,true
+RUSSELL SPRINGS,false
+HERMITAGE,false
+Kornwestheim,true
+EL MONTE,true
+TORINO,false
+AMSTERDAM,true
+MILANO,false
+TRINIDAD,true
+Tipperary,false
+NEVADA,true
+St. Paul im Lavanttal,true
+BOISE CITY,false
+MILANO,true
+Jedlińsk,false
+OMAHA,true
+CINCINNATI,false
+Rhauderfehn,false
+Bad Kreuznach,false
+LEWISTON,true
+MAISONS - ALFORT,true
+ENGLEWOOD CLIFFS,false
+MERRITT ISLAND,false
+MIAMI,false
+CINCINNATI,true
+WILLMAR,false
+Euskirchen,true
+WAYNE,true
+ALTAMURA,true
+JACKSON,true
+HICKSVILLE,false
+HENRICO,true
+Kollerschlag,false
+Bilbao,true
+ROTTERDAM,true
+HELENA,false
+PARIS 13,false
+Frankfurt am Main,true
+Limerick,false
+WILSON,true
+Magstadt,true
+ATLANTA,true
+Frankfurt am Main,true
+CAVALESE,false
+Ottobrunn,true
+Dettenhausen,false
+MINNEAPOLIS,true
+CINCINNATI,false
+N. CHAS,false
+Künzelsau,false
+GAINESVILLE,true
+FT LAUDERDALE,true
+RUTHER GLEN,false
+"Landshut, Isar",true
+TAMPA,false
+Tipperary,false
+FRANKFORT,true
+RICHMOND,false
+BUFFALO,false
+CARUTHERSVILLE,false
+ROMA,true
+Athens,false
+Cork,true
+TUPELO,true
+ZEBULON,true
+HERMITAGE,true
+Wąsewo,true
+SIOUX FALLS,true
+AMHERST,true
+MILANO,true
+WILSON,false
+RICHMOND,false
+BORGO SAN GIACOMO,false
+Braunau am Inn,false
+Schwanenstadt,true
+KIOWA,true
+ROMA,false
+LYNN,true
+MILANO,true
+NAPERVILLE,true
+DUNCAN,true
+Hannover,false
+DURHAM,false
+EINDHOVEN,false
+Salzburg,false
+KANSAS CITY,true
+N. CHAS,false
+MILANO,true
+NAPERVILLE,true
+Cork,true
+THOMASVILLE,true
+MILANO,true
+ENGLEWOOD CLIFFS,true
+MILANO,false
+Dublin,false
+ANGHIARI,true
+MILANO,true
+München,true
+FERGUS FALLS,false
+MILANO,false
+HERMITAGE,true
+DEXTER,true
+BIRMINGHAM,true
+N RICHLAND HILLS,true
+TAMPA,false
+München,false
+"Heringen, Werra",false
+HEAVENER,true
+MONTROUGE,false
+ST. PAUL,true
+Nowy Dwór Gdański,true
+MONTROUGE,false
+Waterford,true
+STRASBURG,false
+MCKINNEY,true
+LUXEMBOURG,false
+OURAY,true
+ALBANY,true
+St.Pölten,false
+TERRE HAUTE,true
+MONTROUGE CEDEX,true
+Düsseldorf,true
+HENRICO,true
+Kilkenny,true
+ST. PAUL,true
+MILANO,true
+MINNEAPOLIS,false
+MILANO,true
+BIRMINGHAM,false
+Poysdorf,true
+Scheibbs,true
+SUGAR LAND,false
+Remscheid,false
+PARIS CEDEX 1,false
+Durmersheim,true
+CANTON,false
+Leinefelde-Worbis,false
+MILANO,true
+MIDLOTHIAN,false
+MIDLAND,false
+MAYWOOD,false
+"Mühlhausen, Thüringen",true
+MILANO,false
+WINNSBORO,false
+Parndorf,true
+ONTARIO,true
+Butzbach,false
+ALBANY,true
+ROSEMONT,false
+Helsinki,true
+NAPERVILLE,true
+CHANTILLY,false
+PARIS,false
+OKLAHOMA CITY,true
+Aindling,true
+"Neumarkt, Oberpf.",true
+KANSAS CITY,false
+Leitrim,true
+ROSEMONT,false
+NEW ORLEANS,false
+HUTCHINSON,false
+LILLE CEDEX,true
+WEST CONCORD,true
+Antwerpen,true
+AMSTERDAM,false
+OWATONNA,true
+PITTSBURGH,false
+WAYNE,true
+RICHMOND,true
+SAN ANTONIO,false
+ALBANY,false
+MOULTRIE,false
+HELSINKI,false
+Hilter am Teutoburger Wald,true
+MINNEAPOLIS,false
+DAVID CITY,false
+WHITEWATER,false
+Wildschönau,false
+PORTLAND,true
+Galway,false
+MILANO,false
+SOUTH SAN FRANCISCO,true
+MANCHESTER,true
+"Forchheim, Oberfr.",false
+Linz,false
+BIRMINGHAM,true
+Berlin,false
+ATLANTA,false
+DANVILLE,true
+PARIS,false
+Stuttgart,true
+LYNN,false
+Geretsberg,true
+MILANO,false
+Neuss,true
+COLUMBUS,false
+Dortmund,false
+"Hamm, Westf.",false
+ALBANY,false
+DRIEBERGEN RYSENBU,true
+MIDLAND,false
+Aschheim,true
+Antwerpen,false
+PINE BLUFF,true
+COLUMBUS,true
+KALISPELL,true
+MILANO,false
+Alberschwende,false
+REYNOLDSVILLE,false
+ST. PAUL,false
+ARTESIA,true
+BIRMINGHAM,false
+NEW BRITIAN,false
+CAMBRIDGE,true
+VALLO DELLA LUCANIA,true
+Dublin,false
+TUPELO,false
+Wiesbaden,true
+Warszawa,true
+LAKEWOOD,true
+CORYDON,false
+N. CHAS,true
+MILANO,true
+THOMASVILLE,true
+GRAHAM,false
+Waregem,false
+SAN LEONARDO IN PASSIRIA-SANKT,true
+MARCELLINARA,true
+MONTROUGE,true
+MIAMI,false
+FARNAM,true
+NEW ORLEANS,true
+Hollfeld,false
+Frankfurt am Main,false
+"Grünberg, Hessen",true
+NAPERVILLE,false
+NAPERVILLE,true
+Grimma,true
+Frankfurt am Main,false
+MILANO,true
+CINCINNATI,false
+NAPERVILLE,false
+København K,false
+CARMI,false
+MIAMI,true
+Brussel,true
+LYON CEDEX 03,true
+"Eisenach, Thüringen",false
+Velden am Wörther See,false
+AMSTERDAM,true
+RUSK,true
+BLUEFIELD,true
+SUGAR LAND,false
+Aitrang,false
+ALLENDALE,true
+EINDHOVEN,true
+RALEIGH,false
+MONTICELLO,true
+Riezlern,false
+GRAHAM,false
+TUPELO,false
+CADOTT,false
+BIRMINGHAM,true
+CINCINNATI,true
+PORTLAND,true
+CLEVELAND,false
+"Salzwedel, Hansestadt",false
+ABILENE,true
+NEVADA,false
+CAMDEN,true
+MIAMI,true
+TUPELO,false
+NAPERVILLE,false
+AMHERST,true
+MILANO,false
+Brussel,true
+ANNECY LE VIEUX,false
+Sligo,true
+VANCEBURG,false
+BLAIRSVILLE,false
+Bilbao,false
+HIKCSVILLE,false
+Warszawa,true
+FIRENZE,true
+Clare,false
+SIOUX FALLS,true
+"Münster, Westf.",false
+OAKLAND,true
+PARIS,true
+AMSTERDAM,false
+AMSTERDAM,true
+GREENSBURG,false
+ROMA,true
+HERMITAGE,false
+LUXEMBOURG,false
+Athens,false
+PARIS 13,false
+DOWNEY,true
+CLEVELAND,true
+Hopfgarten,true
+Viechtach,true
+LINCOLNTON,false
+ALBANY,true
+Frankfurt am Main,false
+Madrid,false
+HILLSBORO,false
+VILLABASSA-NIEDERDORF,false
+OMAHA,true
+Gramastetten,true
+PIEDMONT,true
+Ioannina,false
+Dublin,false
+Donauwörth,false
+HENRICO,true
+CANTON,true
+BUFFALO,false
+Dublin,false
+ALZATE BRIANZA,true
+MINNEAPOLIS,false
+TRINITY,true
+LEWISTON,false
+ROMA,true
+TRENTON,true
+TUPELO,false
+Georgsmarienhütte,true
+HICKSVILLE,false
+Bielefeld,true
+MEMPHIS,false
+CINCINNATI,true
+ANCHORAGE,false
+PARIS 09,false
+COLUMBUS,false
+AMSTERDAM,true
+PORTLAND,false
+ORBISONIA,true
+Gelsenkirchen,false
+WORCESTER,true
+ST. PAUL,false
+HERMITAGE,true
+MILANO,true
+PARABITA,false
+CORTONA,false
+ROMA,true
+Valencia,true
+MONTROUGE,true
+COZAD,true
+"Hamm, Westfalen",true
+MONTROUGE,false
+Dublin,false
+EVANSTON,false
+ST. PAUL,false
+SAN DIEGO,true
+HARTFORD,false
+Düsseldorf,true
+RUTHER GLEN,false
+MINNEAPOLIS,false
+PARIS 13,true
+PARIS,true
+KANSAS CITY,true
+HENRICO,false
+BIRMINGHAM,false
+MILANO,false
+GRAPEVINE,true
+SPOKANE,false
+"Neunkirchen, Saar",false
+SPOKANE,true
+MONTREUIL,false
+Linz,false
+Farum,false
+ENGLEWOOD CLIFFS,true
+St.Pölten,true
+CLEVELAND,true
+Egg (Vbg.),true
+FULDA,true
+"Schleiden, Eifel",false
+HERMITAGE,true
+TUPELO,false
+FORREST,true
+Greding,true
+Laa a.d. Thaya,true
+TRENTON,true
+LJUBLJANA,false
+PITTSBURGH,false
+SAINT GREGOIRE,true
+Ried im Innkreis,true
+CAMERON,false
+PARIS 13,true
+LOS ANGELES,false
+CHICAGO,true
+SANTA FE,false
+CINCINNATI,true
+RICHMOND,false
+EVANSTON,false
+AMARILLO,true
+MINNEAPOLIS,false
+LUXEMBOURG,false
+AMSTERDAM,true
+Porto,true
+WALTON,false
+Gleisdorf,true
+WILSON,true
+Riesa,true
+LAKEWOOD,false
+JACKSON,true
+Frankfurt am Main,true
+FITZGERALD,false
+MONTROUGE CEDEX,true
+PARIS,false
+SYRACUSE,true
+BIRMINGHAM,true
+Zamora,false
+CHICAGO,false
+MONTEBELLO,true
+TULSA,false
+Antwerpen,false
+St. Veit an der Glan,false
+HERMITAGE,false
+MUNITH,true
+Böblingen,false
+Dublin,true
+KANSAS CITY,false
+ENGLEWOOD CLIFFS,false
+MILANO,true
+SAN MARCO DEI CAVOTI,true
+München,true
+ARLINGTON,false
+Warszawa,false
+Frankfurt am Main,false
+MINNEAPOLIS,true
+AMSTERDAM,false
+Ottobrunn,false
+Galway,true
+MILANO,true
+Rīga,false
+Frankfurt am Main,true
+Praha 4,true
+"Neumarkt, Oberpf.",true
+LAFAYETTE,true
+RIVERSIDE,false
+BLAIRSVILLE,true
+HELSINKI,true
+Neubulach,true
+ROMA,true
+AMHERST,true
+PARIS 08,false
+Bochum,true
+NEW CASTLE,false
+Paldau,false
+ST. PAUL,false
+NAPERVILLE,true
+COLUMBUS,true
+PITTSBURGH,false
+TORRANCE,true
+PINE BLUFF,true
+MINNEAPOLIS,true
+Klagenfurt,true
+STARKVILLE,true
+HAMILTON,true
+TALLAHASSEE,true
+Stimpfach,false
+NASHVILLE,false
+PARIS 01,true
+Lübeck,true
+LAKEWOOD,false
+RICHMOND,true
+THREE RIVERS,false
+Antwerpen,false
+Kędzierzyn-Koźle,true
+STUART,false
+Delbrück,false
+Freiburg im Breisgau,true
+KNOXVILLE,false
+N. CHAS,true
+Berlin,true
+MINNEAPOLIS,false
+WILSON,true
+Baden bei Wien,true
+MILANO,true
+SIOUX FALLS,false
+Bamberg,false
+PARIS CEDEX 06,false
+MILANO,false
+TOPEKA,false
+PARIS 07SP,false
+Mülheim an der Ruhr,false
+WILSON,true
+Villingen-Schwenningen,false
+ROMA,true
+SUGAR LAND,true
+Wels,false
+CINCINNATI,true
+Kildare,false
+PARIS,false
+LAFAYETTE,true
+Frankfurt am Main,false
+HENRICO,true
+THOMASVILLE,false
+MILANO,false
+THOMASVILLE,false
+CLEBURNE,false
+SIOUX CITY,false
+RALEIGH,false
+NEW ORLEANS,true
+BENE VAGIENNA,true
+Warszawa,true
+HAYWARD,false
+TUPELO,true
+GILLETTE,false
+NEW CASTLE,true
+LEXINGTON,false
+PARIS,true
+Frankfurt am Main,false
+Mainz a Rhein,false
+SUGAR LAND,true
+MILANO,false
+MILANO,true
+PITTSBURGH,true
+CASSANO DELLE MURGE,false
+St. Veit an der Glan,false
+Wien,false
+NAPERVILLE,true
+Coburg,false
+Warszawa,true
+TAMPA,true
+RUSK,true
+Budenheim b Mainz,false
+OVERBROOK,true
+"Freising, Oberbay",true
+"Münster, Westf.",true
+CINCINNATI,false
+Frankfurt am Main,true
+NORTH CHGO,false
+WATERLOO,false
+MOZZANICA,false
+HERMITAGE,false
+BIRMINGHAM,true
+ALBANY,true
+LUXEMBOURG,false
+Wexford,true
+MONTROUGE,false
+Dublin,true
+CARLSBAD,false
+Stuttgart,false
+WATHENA,false
+LUXEMBOURG,true
+PITTSFIELD,true
+SEYMOUR,false
+Rzeszów,false
+MILANO,false
+Wien,false
+AMHERST,true
+Rødding,false
+TUPELO,false
+VINAROS,false
+NEW TAZEWELL,true
+Frankfurt am Main,true
+BLAIRSVILLE,false
+Volkach,false
+Antwerpen,true
+MILANO,true
+TORINO,false
+TORINO,true
+PITTSBURGH,false
+ALEXANDRIA,false
+ANSLEY,true
+LOS ANGELES,true
+Landau in der Pfalz,false
+SPRINGFIELD,true
+WILMINGTON,true
+Korbach,false
+BOZEMAN,false
+HOLLY HILL,true
+LILLE,true
+TUPELO,true
+MILANO,false
+"Heppenheim, Bergstraße",false
+AMSTERDAM,true
+POISSY,false
+SAN JOSE,true
+AMHERST,false
+Tallinn,true
+MARSHALLTOWN,true
+Emmendingen,true
+St. Veit an der Glan,false
+ROMA,true
+Rechtmehring,true
+BLAIRSVILLE,true
+CINCINNATI,false
+SPOKANE,false
+LAFAYETTE,false
+Bydgoszcz,false
+ROMA,true
+SIOUX FALLS,true
+PARIS CEDEX 06,false
+BERESFORD,false
+NANTES CEDEX9,true
+READING,true
+LOS ANGELES,true
+ABILENE,false
+SASSARI,true
+JASPER,true
+Warszawa,true
+ODESSA,false
+LAFAYETTE,true
+KANSAS CITY,false
+St. Roman bei Schärding,true
+MINNEAPOLIS,false
+MILANO,false
