@@ -30,7 +30,23 @@ def read_from_file():
 
 # Find the position of the customer who gave the first 5-star rating in a given month. 
 def find_position(orders):
+    # Set position to -1 
     position = -1
+    # Set index to 0 
+    index = 0
+    # Ask user to enter month to search for 
+    targetMonth = input("Enter the month to search for: ")
+    # While position is -1 and index is less than the length of the array 
+    while position == -1 and index < len(orders):
+        # If current month is equal to searched month and current rating is 5 then 
+        if orders[index].date == targetMonth and orders[index].rating == 5:
+            # Set position to index 
+            position = index
+        # End if
+        index = index + 1
+        # Add 1 to index
+    # End while
+
     return position
 
 # Write details of the winning customer, or ‘no winner’ message, to a text file. 
@@ -43,9 +59,31 @@ def write_details(orders, position):
                             orders[position].email+","+
                             str(orders[position].cost))
 
+def countOption(orders, thisOption):
+    # counting occurences
+    # Set counter to zero
+    counter = 0
+    # Loop for all items in list
+    for index in range(len(orders)):
+    # 		IF item value meets condition THEN
+        if orders[index].option == thisOption:
+    # 			Add 1 to counter
+                counter += 1
+    # 		END IF
+    # Next item in list
+    return counter
+
+
 # Display the total number of orders delivered and the total number of orders collected. 
 def display_totals(orders):
-    pass
+    # Call countOption function to return the number of orders delivered
+    noDelivered = countOption(orders, "Delivery")
+    # Call countOption function to return the number of orders collected
+    noCollected = countOption(orders, "Collection")
+    # Output the total number of orders delivered
+    print("The total number of orders delivered: "+str(noDelivered))
+    # Output the total number of orders collected
+    print("The total number of orders collected: "+str(noCollected))
 
 # main program
 
