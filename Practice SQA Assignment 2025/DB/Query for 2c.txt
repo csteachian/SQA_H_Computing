@@ -1,0 +1,4 @@
+SELECT comicTitle, issue, publisherName, valuation
+FROM comic, publisher
+WHERE comic.publisherID = publisher.publisherID
+AND valuation-100 >= (SELECT max(valuation) FROM comic)
