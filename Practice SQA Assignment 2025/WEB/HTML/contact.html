@@ -1,0 +1,61 @@
+<html>
+
+<head>
+  <meta charset="UTF-8">
+  <title>Paradise Mini Golf</title>
+  <link href="..\CSS\style.css" rel="stylesheet" type="text/css" />
+</head>
+<header>
+ <img src = "..\Images\banner.png">
+</header>
+<nav>
+  <a href="index.html">Home</a>
+  <a href="food.html">Food</a>
+  <a href="course.html">Course</a>
+  <a href="index.html">Prices</a>
+  <a href="contact.html" class="selected">Contact</a>
+  <div class="animation start-contact"></div>
+</nav>
+
+<main class="contact">
+
+  <h1>Got an enquiry? Fill in the form below</h1>
+  <form>
+  <section>
+  <div class="contactLeft">
+    Name:*<br><input type="text" id="input-name" size = "40" required><br><br>
+	
+    Email address:<br><input type="email" id="input-email" maxlength = "60" size = "40"><br><br>
+	
+    Contact number:*<br><input type="tel" id="input-subject" maxlength = "11" size = "20" required><br><br>
+	
+    Choose your enquiry:*<br>
+    <select id="topic" name="topic"  size = "1" required multiple>
+        <option value="birthday">Birthday Parties</option>
+        <option value="corporate">Corporate Events</option>
+        <option value="group">Group Bookings</option>
+        <option value="other">Other</option>
+    </select><br><br>
+	  <input type="submit" class = "contactButton" value="Send Message">
+	</div>
+	  <div class="contactLeft">
+    Description of your enquiry:*<br>
+      <textarea name="message" type="text" id="input-message" cols="55" rows ="19" required></textarea><br><br>
+	  
+	<input type="radio" name="mailing" checked>Join our Mailing List
+
+
+
+
+    </div> 
+</section>
+</form>
+
+</main>
+
+<footer>
+  <p>Keep in touch by following us on our socials for updates, specials, and important announcements.</p>
+</footer>
+
+
+</html>
